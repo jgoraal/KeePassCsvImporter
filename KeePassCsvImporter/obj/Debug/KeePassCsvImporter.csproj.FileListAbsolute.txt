@@ -1,0 +1,10 @@
+C:\Users\yakoob\RiderProjects\KeePassCsvImporter\KeePassCsvImporter\bin\Debug\KeePassCsvImporter.dll
+C:\Users\yakoob\RiderProjects\KeePassCsvImporter\KeePassCsvImporter\bin\Debug\KeePassCsvImporter.pdb
+C:\Users\yakoob\RiderProjects\KeePassCsvImporter\KeePassCsvImporter\bin\Debug\KeePass.exe
+C:\Users\yakoob\RiderProjects\KeePassCsvImporter\KeePassCsvImporter\bin\Debug\KeePass.exe.config
+C:\Users\yakoob\RiderProjects\KeePassCsvImporter\KeePassCsvImporter\bin\Debug\KeePass.XmlSerializers.dll
+C:\Users\yakoob\RiderProjects\KeePassCsvImporter\KeePassCsvImporter\obj\Debug\KeePassCsvImporter.csproj.AssemblyReference.cache
+C:\Users\yakoob\RiderProjects\KeePassCsvImporter\KeePassCsvImporter\obj\Debug\KeePassCsvImporter.csproj.CoreCompileInputs.cache
+C:\Users\yakoob\RiderProjects\KeePassCsvImporter\KeePassCsvImporter\obj\Debug\KeePassC.071B7A41.Up2Date
+C:\Users\yakoob\RiderProjects\KeePassCsvImporter\KeePassCsvImporter\obj\Debug\KeePassCsvImporter.dll
+C:\Users\yakoob\RiderProjects\KeePassCsvImporter\KeePassCsvImporter\obj\Debug\KeePassCsvImporter.pdb
